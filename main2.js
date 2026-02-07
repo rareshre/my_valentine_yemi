@@ -50,13 +50,13 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   
   const blackmail = [
-    "Please",
-    "I'm begging you",
-    "I'm crying",
-    "I'm sad",
-    "HUHUHUHU",
-    "Please Say Yes",
-    "I'm gonna cry",
+    "TE ROOOG",
+    "PLEASEEEE QTT",
+    "O SA PLANG",
+    ":(((",
+    "UAUAUIU",
+    "HAI ZI DAA",
+    "TE ROOOG",
   ];
   
   function normal() {
@@ -102,13 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "YAYYY. Te iubesc YEMIII";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("Mai joaca-te putin cu butoanele inainte sa dai DA");
     }
 }
 
